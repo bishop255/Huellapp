@@ -13,6 +13,7 @@ import com.example.huellapp.view.MainScreenDueno
 import com.example.huellapp.view.RegisterScreen
 import com.example.huellapp.view.SplashScreen
 import com.example.huellapp.view.WelcomeScreen
+import dagger.hilt.android.AndroidEntryPoint
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
